@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kelair-Hank
-- 👀 I’m interested in unstructured data mining, especially text mining and natural language processing (NLP).
-- 🌱 I’m currently learning machine learning and big data.
-- 💞️ I’m looking to collaborate on data mining related projects.
+- 👀 I’m interested in Data science/analytics in the fields of healthcare, pharmaceuticals and medicine.
+- 🌱 I’m currently learning health informatics.
+- 💞️ I’m looking to collaborate on health informatics related projects.
 
 - 📫 Here's my Linked in profile: https://www.linkedin.com/in/zhou-jingyunliang-3b465a11b/
 
